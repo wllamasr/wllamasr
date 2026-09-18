@@ -46,6 +46,8 @@ console.log(`${wilmer.name} — ${wilmer.role}`);
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FDFD96?style=for-the-badge&logo=javascript&logoColor=1a1b26)
 ![TypeScript](https://img.shields.io/badge/TypeScript-A0D2EB?style=for-the-badge&logo=typescript&logoColor=1a1b26)
+![Python](https://img.shields.io/badge/Python-FFDFBA?style=for-the-badge&logo=python&logoColor=1a1b26)
+![PHP](https://img.shields.io/badge/PHP-C3B1E1?style=for-the-badge&logo=php&logoColor=1a1b26)
 ![HTML5](https://img.shields.io/badge/HTML5-FFC9B9?style=for-the-badge&logo=html5&logoColor=1a1b26)
 ![CSS3](https://img.shields.io/badge/CSS3-B5EAD7?style=for-the-badge&logo=css3&logoColor=1a1b26)
 
@@ -54,6 +56,8 @@ console.log(`${wilmer.name} — ${wilmer.role}`);
 ![React](https://img.shields.io/badge/React-C7CEEA?style=for-the-badge&logo=react&logoColor=1a1b26)
 ![Node.js](https://img.shields.io/badge/Node.js-C1E1C1?style=for-the-badge&logo=node.js&logoColor=1a1b26)
 ![Express](https://img.shields.io/badge/Express-E2D5F0?style=for-the-badge&logo=express&logoColor=1a1b26)
+![Django](https://img.shields.io/badge/Django-A8D8B9?style=for-the-badge&logo=django&logoColor=1a1b26)
+![Laravel](https://img.shields.io/badge/Laravel-FFB3BA?style=for-the-badge&logo=laravel&logoColor=1a1b26)
 ![Tailwind](https://img.shields.io/badge/Tailwind-A8E6CF?style=for-the-badge&logo=tailwindcss&logoColor=1a1b26)
 
 **Tools**
