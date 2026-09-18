@@ -1,19 +1,19 @@
 <!--
-  README de perfil de GitHub — wllamasr
-  Estética: "Matrix pastel" · fuente monoespaciada · paleta suave (menta / lavanda / rosa)
+  GitHub profile README — wllamasr
+  Style: "Pastel Matrix" · monospace font · soft palette (mint / lavender / pink)
 -->
 
 <div align="center">
 
-<!-- ░░ Encabezado tipo terminal / Matrix ░░ -->
+<!-- ░░ Terminal / Matrix header ░░ -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A8E6CF&center=true&vCenter=true&width=560&lines=Wilmer+Llamas+Renza;Fullstack+Web+Developer;JavaScript+%7C+TypeScript+%7C+React+%2B+Node;Wake+up%2C+Neo...+let's+build+something"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A8E6CF&center=true&vCenter=true&width=560&lines=Wilmer+Llamas;Fullstack+Web+Developer;JavaScript+%7C+TypeScript+%7C+React+%2B+Node;Wake+up%2C+Neo...+let's+build+something"
   alt="typing banner"
 />
 
 <br/>
 
-<!-- ░░ Etiquetas rápidas en tono pastel ░░ -->
+<!-- ░░ Quick pastel tags ░░ -->
 <img src="https://img.shields.io/badge/Fullstack-Web-A8E6CF?style=for-the-badge&labelColor=1a1b26" />
 <img src="https://img.shields.io/badge/Based%20in-Colombia-D5C6E0?style=for-the-badge&labelColor=1a1b26" />
 <img src="https://img.shields.io/badge/Status-Always%20Learning-FFD3E0?style=for-the-badge&labelColor=1a1b26" />
@@ -26,13 +26,13 @@
 
 ```ts
 const wilmer = {
-  name: "Wilmer Llamas Renza",
+  name: "Wilmer Llamas",
   role: "Fullstack Web Developer",
   location: "Colombia 🇨🇴",
-  focus: ["Frontend con React", "APIs con Node.js", "TypeScript everywhere"],
-  currently: "Construyendo proyectos y creciendo día a día 🌱",
-  mindset: "Código limpio, curiosidad constante y muchas ganas de aprender",
-  openTo: ["Colaboraciones", "Proyectos freelance", "Nuevas oportunidades"],
+  focus: ["Frontend with React", "APIs with Node.js", "TypeScript everywhere"],
+  currently: "Building projects and growing every day 🌱",
+  mindset: "Clean code, constant curiosity and a lot of drive to learn",
+  openTo: ["Collaborations", "Freelance projects", "New opportunities"],
 };
 
 console.log(`${wilmer.name} — ${wilmer.role}`);
@@ -42,7 +42,7 @@ console.log(`${wilmer.name} — ${wilmer.role}`);
 
 ## `> stack --list`
 
-**Lenguajes**
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FDFD96?style=for-the-badge&logo=javascript&logoColor=1a1b26)
 ![TypeScript](https://img.shields.io/badge/TypeScript-A0D2EB?style=for-the-badge&logo=typescript&logoColor=1a1b26)
@@ -56,7 +56,7 @@ console.log(`${wilmer.name} — ${wilmer.role}`);
 ![Express](https://img.shields.io/badge/Express-E2D5F0?style=for-the-badge&logo=express&logoColor=1a1b26)
 ![Tailwind](https://img.shields.io/badge/Tailwind-A8E6CF?style=for-the-badge&logo=tailwindcss&logoColor=1a1b26)
 
-**Herramientas**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-FFD3E0?style=for-the-badge&logo=git&logoColor=1a1b26)
 ![GitHub](https://img.shields.io/badge/GitHub-D5C6E0?style=for-the-badge&logo=github&logoColor=1a1b26)
@@ -66,19 +66,8 @@ console.log(`${wilmer.name} — ${wilmer.role}`);
 
 ## `> git log --projects`
 
-> 🌱 Estoy empezando a construir mi portafolio. Muy pronto verás aquí mis proyectos destacados.
-> Mientras tanto, echa un vistazo a mis repositorios — ¡se vienen cosas! 🚀
-
----
-
-## `> stats --pastel`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wllamasr&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=A8E6CF&text_color=D5C6E0&icon_color=FFD3E0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wllamasr&layout=compact&hide_border=true&bg_color=1a1b26&title_color=A8E6CF&text_color=D5C6E0" />
-
-</div>
+> 🌱 I'm just starting to build my portfolio. Soon you'll see my featured projects here.
+> In the meantime, take a look at my repositories — good things are coming! 🚀
 
 ---
 
@@ -86,9 +75,9 @@ console.log(`${wilmer.name} — ${wilmer.role}`);
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilmer%20Llamas%20Renza-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=1a1b26)](https://www.linkedin.com/in/wilmer-llamas-renza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilmer%20Llamas-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=1a1b26)](https://www.linkedin.com/in/wilmer-llamas-renza/)
 [![GitHub](https://img.shields.io/badge/GitHub-wllamasr-D5C6E0?style=for-the-badge&logo=github&logoColor=1a1b26)](https://github.com/wllamasr)
 
-<sub><code>// There is no spoon. Solo hay código por escribir.</code></sub>
+<sub><code>// There is no spoon. Just code waiting to be written.</code></sub>
 
 </div>
