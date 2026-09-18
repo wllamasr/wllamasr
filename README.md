@@ -65,6 +65,7 @@ console.log(`${wilmer.name} — ${wilmer.role}`);
 ![Git](https://img.shields.io/badge/Git-FFD3E0?style=for-the-badge&logo=git&logoColor=1a1b26)
 ![GitHub](https://img.shields.io/badge/GitHub-D5C6E0?style=for-the-badge&logo=github&logoColor=1a1b26)
 ![VS Code](https://img.shields.io/badge/VS%20Code-A0D2EB?style=for-the-badge&logo=visualstudiocode&logoColor=1a1b26)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-F2C6B4?style=for-the-badge&logo=claude&logoColor=1a1b26)
 
 ---
 
