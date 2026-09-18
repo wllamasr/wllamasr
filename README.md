@@ -7,7 +7,7 @@
 
 <!-- ░░ Terminal / Matrix header ░░ -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A8E6CF&center=true&vCenter=true&width=560&lines=Wilmer+Llamas;Fullstack+Web+Developer;JavaScript+%7C+TypeScript+%7C+React+%2B+Node;Wake+up%2C+Neo...+let's+build+something"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A8E6CF&center=true&vCenter=true&width=700&height=60&lines=+Wilmer+Llamas+;+Fullstack+Web+Developer+;+JavaScript+%7C+TypeScript+%7C+React+%2B+Node+;+Wake+up%2C+Neo...+let's+build+something+"
   alt="typing banner"
 />
 
